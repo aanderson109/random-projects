@@ -1,2 +1,2 @@
-# Python Projects
-A variety of projects I have worked on using the Python programming languages.
+# different projects
+no rhyme a reason at all here
